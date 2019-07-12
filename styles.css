@@ -1,14 +1,24 @@
 .col-sm{
-    background-color: white;
-    border:1px solid black;
-}
-
-.container{
-    background-color:red;
-    border:1px solid black;
-    border-radius:30px;
-}
+     background-color: white;
+     border:1px solid black;
+ }
 
 body {
     background-color: orangered;
+
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+
+.col {
+    background-color: white;
+    border:1px solid black;
+
+}
+
+.w-100 {
+    background-color: white;
+    border:1px solid black;
 }
