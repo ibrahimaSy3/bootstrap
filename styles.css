@@ -1,24 +1,15 @@
-.col-sm{
-     background-color: white;
-     border:1px solid black;
- }
+/*
+.img-fluid.svg {
+    width: 100%;
+}
+*/
 
-body {
-    background-color: orangered;
-
+.img-fluid.img {
+    width: 100%;
+    /*background-color:#2B201C;*/
 }
 
-.selector-for-some-widget {
-    box-sizing: content-box;
-}
-
-.col {
-    background-color: white;
-    border:1px solid black;
-
-}
-
-.w-100 {
-    background-color: white;
-    border:1px solid black;
+.container-fluid {
+    width: 100%;
+    background-color: #2B201C;
 }
