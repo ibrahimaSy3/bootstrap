@@ -8,6 +8,7 @@
 
 h5 {
     color: white;
+    margin:1rem 0;
 }
 
 h6 {
@@ -24,4 +25,9 @@ h6 {
 
 body {
  height: 995px;
+}
+
+
+.margin-left{
+    margin-left: -50px;
 }
