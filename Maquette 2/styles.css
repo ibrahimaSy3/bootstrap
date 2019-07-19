@@ -1,5 +1,5 @@
 .background {
-    background: url("../images/src_assets_img_background-louis-vuitton (3).svg") #4e2716;
+    background: url("../images/src_assets_img_background-louis-vuitton (3).svg") rgb(68, 52, 47);
 }
 
 .background-2 {
@@ -7,7 +7,6 @@
 }
 
 h5 {
-    color: white;
     margin:1rem 0;
 }
 
@@ -30,4 +29,17 @@ body {
 
 .margin-left{
     margin-left: -50px;
+}
+
+.text-2{
+    color:rgb(163, 124, 113);
+
+}
+
+.text{
+    color: white;
+}
+
+.title {
+    color: white;
 }
