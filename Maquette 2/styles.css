@@ -1,3 +1,7 @@
+body {
+    font-family: Frutiger;
+}
+
 .background {
     background: url("../images/src_assets_img_background-louis-vuitton (3).svg") #433431;
     color: #A07C71;
@@ -50,7 +54,7 @@ img {
 }
 
 .bdr-wdth {
-    border-width:5px !important;
+    border-width: 5px !important;
 }
 
 .sixth-title {
@@ -58,7 +62,51 @@ img {
 }
 
 .divider {
-    border-color:rgb(209, 209, 209) ;
+    border-color: rgb(209, 209, 209);
+}
 
+.dropdown-divider {
+    border-color: rgb(108, 95, 91);
+}
+
+.dropdown-divider-2 {
+    border-color: #d1d1d1;
+}
+
+p {
+    font-size: 0.8rem;
+}
+
+
+@font-face {
+    font-family: "Frutiger";
+    src: url('/images/Frutiger-Light.otf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Frutiger";
+    src: url('/images/Frutiger-Roman.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Frutiger";
+    src: url('/images/Frutiger-Bold.otf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Frutiger";
+    src: url('/images/Frutiger-Black.otf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+h5 {
+    font-size: 12px;
 }
 
