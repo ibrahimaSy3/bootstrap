@@ -1,3 +1,9 @@
 .aln {
     text-align: center;
 }
+
+.row last {
+    margin: 4rem;
+    padding-top:27rem;
+}
+
